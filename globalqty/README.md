@@ -5,7 +5,7 @@ search: globalqty
 
 Thank you for purchasing Global Fixed Quantity extension!
 
-This document contains information for **Global Fixed Quantity** extension. If this is not what you are looking for, please go back to [Documentation List](http://opencart.my/documentation).
+This document contains information for **Global Fixed Quantity** extension. If this is not what you are looking for, please go back to [Documentation List](https://opencart.my/documentation).
 
 > If you have any questions that are not found in this documentation, you may contact me through email from the [Support](#support) section at the bottom.
 
@@ -16,9 +16,9 @@ This document contains information for **Global Fixed Quantity** extension. If t
 |||
 | --- | --- |
 | Download Page:                  | <https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=1886> |
-| Latest Version:                 | 2.0.1 ([v1.6.x Documentation](http://opencart.my/documentation/globalqty/v1)) |
+| Latest Version:                 | 2.0.1 ([v1.6.x Documentation](https://opencart.my/documentation/globalqty/v1)) |
 | Release Date:                   | 16th July 2020 |
-| Demo:                           | OpenCart v3.0.2.x: <http://demo.opencart.my/globalqty2><br>OpenCart v2.3.0.x: <http://demo.opencart.my/globalqty> |
+| Demo:                           | OpenCart v3.0.2.x: <https://demo.opencart.my/globalqty2><br>OpenCart v2.3.0.x: <https://demo.opencart.my/globalqty> |
 | Author:                         | opencart.my - [More extensions](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=opencart.my) |
 | Contact:                        | support@opencart.my |
 
@@ -31,7 +31,7 @@ This document contains information for **Global Fixed Quantity** extension. If t
 | 1.6.3 | 2.0.0.0, 2.0.1.0, 2.0.1.1, 2.0.2.0, 2.0.3.1 |
 | 1.6.5 | 2.1.0.1, 2.1.0.2 |
 | 1.6.6 | 2.2.0.0 |
-| 1.6.8<br>([v1.6.x Documentation](http://opencart.my/documentation/globalqty/)) | 2.3.0.0, 2.3.0.1, 2.3.0.2 |
+| 1.6.8<br>([v1.6.x Documentation](https://opencart.my/documentation/globalqty/)) | 2.3.0.0, 2.3.0.1, 2.3.0.2 |
 | 2.0.1 | 3.0.0.0, 3.0.1.1, 3.0.1.2, 3.0.2.0, 3.0.3.0, 3.0.3.1, 3.0.3.2, 3.0.3.3 |
 
 ## Features

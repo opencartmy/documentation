@@ -5,7 +5,7 @@ search: betteroption
 
 Thank you for purchasing Better Option extension!
 
-This document contains information for **Better Option** extension. If this is not what you are looking for, please go back to [Documentation List](http://opencart.my/documentation).
+This document contains information for **Better Option** extension. If this is not what you are looking for, please go back to [Documentation List](https://opencart.my/documentation).
 
 > If you have any questions that are not found in this documentation, you may contact me through email from the [Support](#support) section at the bottom.
 
@@ -16,9 +16,9 @@ This document contains information for **Better Option** extension. If this is n
 |||
 | --- | --- |
 | Download Page:                  | <https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=18692> |
-| Latest Version:                 | 2.0.1 ([v1.4 Documentation](http://opencart.my/documentation/boption/)) |
+| Latest Version:                 | 2.0.1 ([v1.4 Documentation](https://opencart.my/documentation/boption/)) |
 | Release Date:                   | 15th July 2020 |
-| Demo:                           | OpenCart v3.0.2.x: <http://demo.opencart.my/betteroption><br>OpenCart v2.3.0.x: <http://demo.opencart.my/boption2> |
+| Demo:                           | OpenCart v3.0.2.x: <https://demo.opencart.my/betteroption><br>OpenCart v2.3.0.x: <https://demo.opencart.my/boption2> |
 | Author:                         | opencart.my - [More extensions](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=opencart.my) |
 | Contact:                        | support@opencart.my |
 
@@ -29,7 +29,7 @@ This document contains information for **Better Option** extension. If this is n
 | 1.0.1 | 1.5.1, 1.5.1.1, 1.5.1.2, 1.5.1.3<br>1.5.2, 1.5.2.1<br>1.5.3, 1.5.3.1<br>1.5.4, 1.5.4.1<br>1.5.5, 1.5.5.1<br>1.5.6, 1.5.6.1, 1.5.6.2, 1.5.6.3, 1.5.6.4 |
 | 1.3.1 | 2.0.0.0, 2.0.1.0, 2.0.1.1, 2.0.2.0, 2.0.3.1<br>2.1.0.1, 2.1.0.2 |
 | 1.3.2 | 2.2.0.0 |
-| 1.4<br>([v1.4 Documentation](http://opencart.my/documentation/boption/)) | 2.3.0.0, 2.3.0.1, 2.3.0.2 |
+| 1.4<br>([v1.4 Documentation](https://opencart.my/documentation/boption/)) | 2.3.0.0, 2.3.0.1, 2.3.0.2 |
 | 2.0.1 | 3.0.0.0, 3.0.1.1, 3.0.1.2, 3.0.2.0, 3.0.3.0, 3.0.3.1, 3.0.3.2, 3.0.3.3 |
 
 ## Features

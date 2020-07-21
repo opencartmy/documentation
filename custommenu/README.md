@@ -5,7 +5,7 @@ search: custommenu
 
 Thank you for purchasing Custom Menu extension!
 
-This document contains information for **Custom Menu** extension. If this is not what you are looking for, please go back to [Documentation List](http://opencart.my/documentation).
+This document contains information for **Custom Menu** extension. If this is not what you are looking for, please go back to [Documentation List](https://opencart.my/documentation).
 
 > If you have any questions that are not found in this documentation, you may contact me through email from the [Support](#support) section at the bottom.
 
@@ -16,9 +16,9 @@ This document contains information for **Custom Menu** extension. If this is not
 |||
 | --- | --- |
 | Download Page:                  | <https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=6074> |
-| Latest Version:                 | 2.0.0 ([v1.7.x Documentation](http://opencart.my/documentation/cmenu)) |
-| Release Date:                   | 30th June 2018 |
-| Demo:                           | OpenCart v3.0.2.x: <http://demo.opencart.my/custommenu><br>OpenCart v2.3.0.x: <http://demo.opencart.my/cmenu2> |
+| Latest Version:                 | 2.0.1 ([v1.7.x Documentation](https://opencart.my/documentation/cmenu)) |
+| Release Date:                   | 7th July 2018 |
+| Demo:                           | OpenCart v3.0.2.x: <https://demo.opencart.my/custommenu><br>OpenCart v2.3.0.x: <https://demo.opencart.my/cmenu2> |
 | Author:                         | opencart.my - [More extensions](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=opencart.my) |
 | Contact:                        | support@opencart.my |
 
@@ -30,8 +30,8 @@ This document contains information for **Custom Menu** extension. If this is not
 | 1.7.4 | 2.0.0.0, 2.0.1.0, 2.0.1.1, 2.0.2.0, 2.0.3.1 |
 | 1.7.5 | 2.1.0.1, 2.1.0.2 |
 | 1.7.6 | 2.2.0.0 |
-| 1.7.7<br>([v1.7.x Documentation](http://opencart.my/documentation/cmenu/)) | 2.3.0.0, 2.3.0.1, 2.3.0.2 |
-| 2.0.0 | 3.0.0.0, 3.0.1.1, 3.0.1.2, 3.0.2.0 |
+| 1.7.7<br>([v1.7.x Documentation](https://opencart.my/documentation/cmenu/)) | 2.3.0.0, 2.3.0.1, 2.3.0.2 |
+| 2.0.0<br>2.0.1 | 3.0.0.0, 3.0.1.1, 3.0.1.2, 3.0.2.0, 3.0.3.0, 3.0.3.1, 3.0.3.2, 3.0.3.3 |
 
 ## Features
 
@@ -55,11 +55,13 @@ Custom Menu enables store owner to add own custom links in the top navigation me
 10. Multi-store supported.
 11. SEO URL supported.
 
-### What's New in v2.0.0
+### What's New in v2.0.1
 
-1. Support for latest OpenCart v3.0.x. [See changelog](#changelog)
+1. Fixed uninstall modification. [See changelog](#changelog)
 
-2. Enabled **Top** settings for child categories in top menu.
+2. Removed event and cache control.
+
+3. Added Add New button on empty result list page.
 
 ## Installation
 
@@ -125,7 +127,7 @@ Example result:
 
 ### Link
 
-Insert the custom link **full URL** here. It is recommended to include `http://` or `https://` in a link. Examples: http://www.amazon.com, https://gmail.google.com
+Insert the custom link **full URL** here. It is recommended to include `https://` or `https://` in a link. Examples: https://www.amazon.com, https://gmail.google.com
 
 To create a false or empty link, just insert a hash `#` symbol.
 
@@ -349,6 +351,7 @@ Please follow the steps below to completely uninstall and delete **Custom Menu**
 
 | Version | Release Date | Features |
 | --- | --- | --- |
+| v2.0.1 | 7th July 2018 | 1. Fixed uninstall modification<br>2. Removed event and cache control<br>3. Added Add New button on empty result list page. |
 | v2.0.0 | 30th June 2018 | 1. Support for latest OpenCart v3.0.x<br>2. Enabled **Top** settings for child categories in top menu. |
 
 ## Support

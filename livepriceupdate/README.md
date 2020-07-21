@@ -5,7 +5,7 @@ search: livepriceupdate
 
 Thank you for purchasing Live Price Update extension!
 
-This document contains information for **Live Price Update** extension. If this is not what you are looking for, please go back to [Documentation List](http://opencart.my/documentation).
+This document contains information for **Live Price Update** extension. If this is not what you are looking for, please go back to [Documentation List](https://opencart.my/documentation).
 
 > If you have any questions that are not found in this documentation, you may contact me through email from the [Support](#support) section at the bottom.
 
@@ -18,7 +18,7 @@ This document contains information for **Live Price Update** extension. If this 
 | Download Page:                  | <https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=12489> |
 | Latest Version:                 | 2.0.2 ([v1.5.x Documentation](v1/)) |
 | Release Date:                   | 15th July 2020 |
-| Demo:                           | OpenCart v3.0.2.x: <http://demo.opencart.my/livepriceupdate><br>OpenCart v2.3.0.x: <http://demo.opencart.my/livepriceupdate/ocv2><br>OpenCart v1.5.x: <http://demo.opencart.my/lpu> |
+| Demo:                           | OpenCart v3.0.2.x: <https://demo.opencart.my/livepriceupdate><br>OpenCart v2.3.0.x: <https://demo.opencart.my/livepriceupdate/ocv2><br>OpenCart v1.5.x: <https://demo.opencart.my/lpu> |
 | Author:                         | opencart.my - [More extensions](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=opencart.my) |
 | Contact:                        | support@opencart.my |
 
