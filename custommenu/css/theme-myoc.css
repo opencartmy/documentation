@@ -1,0 +1,51 @@
+:root {
+  --ocblue: #2496ea;
+}
+
+/* anchors in markdown */
+.markdown-body a,
+.markdown-body .markdown-heading:focus {
+  color: var(--ocblue);
+}
+
+/* highlight string */
+.token.string {
+  color: #183691;
+}
+
+/* navbar */
+.nav-list .nav-item >a.router-link-active, .nav-list .nav-item >div.router-link-active {
+  color: var(--ocblue);
+  border-bottom-color: var(--ocblue);
+}
+
+.nav-list .nav-item-dropdown .dropdown-list .dropdown-item .router-link:hover, .nav-list .nav-item-dropdown .dropdown-list .dropdown-item .router-link-active {
+  color: var(--ocblue);
+}
+
+/* headings in markdown */
+.sidebar-headings .sidebar-heading .sidebar-heading-anchor.active, .sidebar-headings .sidebar-heading .sidebar-heading-anchor:hover {
+  color: var(--ocblue);
+}
+
+/* nprogress */
+#nprogress .bar {
+  background: var(--ocblue);
+}
+#nprogress .spinner-icon {
+  border-top-color: var(--ocblue);
+  border-left-color: var(--ocblue);
+}
+
+/* search icon */
+.search-form .svg-icon.do-search:hover {
+  color: var(--ocblue);
+}
+
+/* color for anchors */
+.link {
+  color: var(--ocblue);
+}
+.link:hover {
+  color: var(--ocblue);
+}

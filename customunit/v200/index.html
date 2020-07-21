@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+  <title>Custom Unit</title>
+  <link rel="stylesheet" href="https://unpkg.com/docute@3/dist/docute.css">
+  <link rel="stylesheet" href="./css/theme-myoc.css">
+  <link rel="stylesheet" href="https://unpkg.com/font-awesome@4.7.0/css/font-awesome.min.css">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42602799-6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-42602799-6');
+  </script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
+</head>
+<body>
+  <div id="app"></div>
+  <script src="https://cdn.jsdelivr.net/npm/docute@3/plugins/docsearch.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docute@3/dist/docute.js"></script>
+  <script type="text/javascript">
+    docute.init({
+      tocVisibleDepth: 2,
+      nav: [
+        {title: 'Custom Unit', path: '/'},
+        {title: 'Other Extensions', type: 'dropdown', items: [
+          {title: 'Better Option', path: 'http://opencart.my/documentation/betteroption/'},
+          {title: 'Custom Menu', path: 'http://opencart.my/documentation/custommenu/'},
+          {type: 'label', title: 'Custom Unit'},
+          {title: 'Global Fixed Quantity', path: 'http://opencart.my/documentation/globalqty/'},
+          {title: 'Live Price Update', path: 'http://opencart.my/documentation/livepriceupdate/'},
+          {title: 'Price Rounding', path: 'http://opencart.my/documentation/rounding/'},
+          {title: 'Super Discount', path: 'http://opencart.my/documentation/superdiscount/'},
+        ]}
+      ],
+      icons: [{
+        icon: 'info',
+        label: 'All Extensions on OpenCart.com Marketplace',
+        link: 'https://www.opencart.com/index.php?route=marketplace/extension&filter_member=opencart.my'
+      }],
+      plugins: [
+        // the docsearch variable is provided by docsearch plugin
+        docsearch({
+          appId: 'BH4D9OD16A',
+          apiKey: '732bd8cc17bf1fc4484cdef48247fe38',
+          indexName: 'opencart',
+          url: 'http://opencart.my/documentation/customunit/'
+        })
+      ]
+    });
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-python.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.js"></script>
+</body>
+</html>
