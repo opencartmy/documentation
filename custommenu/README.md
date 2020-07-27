@@ -103,6 +103,26 @@ Custom Menu enables store owner to add own custom links in the top navigation me
 
 Previous versions of this extension are not compatible with OpenCart v3.0.x. Therefore, a new installation is required.
 
+### From v2.0.0 to v2.0.1
+
+Please follow the steps below to update **Custom Menu** extension. Your extension settings & data will not be deleted.
+
+<p class="danger">
+  **WARNING!** Please DO NOT uninstall the Custom Menu extension from admin > Extensions > Extensions > OpenCart.my Extensions > Custom Menu! Or else you will lose all your Custom Menu data that you have previously setup.
+</p>
+
+1. Click on the `Upload` button and browse the new extension file **myoc.cmenu.ocmod.zip** that you have downloaded from your purchase on opencart.com marketplace.
+
+  ![install progress](images/install_progress.png)
+
+  This will replace previous extension files with the updated version.
+
+2. Then, navigate to `Extensions` \> `Modifications` \> click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-refresh"></i></button> **Refresh** button.
+
+3. Clear your theme cache by navigating to `Dashboard` \> click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-cog"></i></button> **Settings** button \> click on the orange <button class="docute-button docute-button-warning"><i class="fa fa-refresh"></i></button> **Refresh** buttons to refresh both `Theme` & `SASS` Components \> close the **Developer Settings** window.
+
+4. If necessary, reconfigure and save the extension settings in the extension configuration page in admin > `Extensions` \> `Extensions` \> under `Choose the extension type` \> select `OpenCart.my Extensions` > `Custom Menu` > click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-pencil"></i></button> **Edit** button.
+
 ## Usage
 
 ### Add New

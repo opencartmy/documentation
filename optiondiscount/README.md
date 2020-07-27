@@ -16,8 +16,8 @@ This document contains information for **Option Discount** extension. If this is
 |||
 | --- | --- |
 | Download Page:                  | <https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=1888> |
-| Latest Version:                 | 2.0.0 <br>([v1.7.5 Documentation](https://opencart.my/documentation/pod)) |
-| Release Date:                   | 13th July 2020 |
+| Latest Version:                 | 2.0.1 <br>([v1.7.5 Documentation](https://opencart.my/documentation/pod)) |
+| Release Date:                   | 27th July 2020 |
 | Demo:                           | OpenCart v3.0.3.x: <https://demo.opencart.my/optiondiscount><br>OpenCart v2.3.0.x: <https://demo.opencart.my/pod> |
 | Author:                         | opencart.my - [More extensions](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=opencart.my) |
 | Contact:                        | support@opencart.my |
@@ -54,13 +54,17 @@ This extension is useful if you need to apply quantity discount to each option v
  - [Better Option](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=18692) extension.
  - [Global Fixed Quantity](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=1886) extension.
 
-### What's New in v2.0.0
+### What's New in v2.0.1
 
-1. Support for latest OpenCart v3.0.x. [See changelog](#changelog)
+1. Removed DEFAULT for database table `datetime` column. [See changelog](#changelog)
 
-2. Option Discount can be set globally and apply to multiple products, categories, or manufacturers.
+2. Standardised database table collation.
 
-3. Added improved compatibility with Live Price Update, Better Option, and Global Fixed Quantity extensions.
+3. Fixed the priority of products, categories, and manufacturers.
+
+4. Added nested category full path in admin list.
+
+5. Fixed error when loading 3rd party custom theme template.
 
 ## Installation
 
@@ -101,6 +105,26 @@ This extension is useful if you need to apply quantity discount to each option v
 ### From v1.x to v2.0.0
 
 Previous versions of this extension are not compatible with OpenCart v3.0.x. Therefore, a new installation is required.
+
+### From v2.0.0 to v2.0.1
+
+Please follow the steps below to update **Option Discount** extension. Your extension settings & data will not be deleted.
+
+<p class="danger">
+  Please **DO NOT** uninstall the **Option Discount** extension from `admin` \> `Extensions` \> `Extensions` \> `OpenCart.my Extensions`, as doing so will delete all your extension settings & data.
+</p>
+
+1. Click on the `Upload` button and browse the new extension file **myoc.optiondiscount.ocmod.zip** that you have downloaded from your purchase on opencart.com marketplace.
+
+  ![install progress](images/install_progress.png)
+
+  This will replace previous extension files with the updated version.
+
+2. Then, navigate to `Extensions` \> `Modifications` \> click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-refresh"></i></button> **Refresh** button.
+
+3. Clear your theme cache by navigating to `Dashboard` \> click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-cog"></i></button> **Settings** button \> click on the orange <button class="docute-button docute-button-warning"><i class="fa fa-refresh"></i></button> **Refresh** buttons to refresh both `Theme` & `SASS` Components \> close the **Developer Settings** window.
+
+4. If necessary, reconfigure and save the extension settings in the extension configuration page in admin > `Extensions` \> `Extensions` \> under `Choose the extension type` \> select `OpenCart.my Extensions` > `Option Discount` > click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-pencil"></i></button> **Edit** button.
 
 ## Usage
 
@@ -578,6 +602,7 @@ Please follow the steps below to completely uninstall and delete **Option Discou
 
 | Version | Release Date | Features |
 | --- | --- | --- |
+| v2.0.1 | 27th July 2020 | 1. Removed DEFAULT for database table `datetime` column.<br>2. Standardised database table collation.<br>3. Fixed the priority of products, categories, and manufacturers.<br>4. Added nested category full path in admin list.<br>5. Fixed error when loading 3rd party custom theme template. |
 | v2.0.0 | 13th July 2020 | 1. Support for latest OpenCart v3.0.x.<br>2. Option Discount can be set globally and apply to multiple products, categories, or manufacturers.<br>3. Added improved compatibility with Live Price Update, Better Option, and Global Fixed Quantity extensions. |
 
 ## Support

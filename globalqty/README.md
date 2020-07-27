@@ -107,15 +107,23 @@ Previous versions of this extension are not compatible with OpenCart v3.0.x. The
 
 ### From v2.0.0 to v2.0.1
 
+Please follow the steps below to update **Global Fixed Quantity** extension. Your extension settings & data will not be deleted.
+
 <p class="danger">
-  **WARNING!** DO NOT need to uninstall the Global Fixed Quantity extension from admin > Extensions > Extensions > OpenCart.my Extensions > Global Fixed Quantity! Or else you will lose all your Global Fixed Quantity data that you have previously setup.
+  Please **DO NOT** uninstall the **Global Fixed Quantity** extension from `admin` \> `Extensions` \> `Extensions` \> `OpenCart.my Extensions`, as doing so will delete all your extension settings & data.
 </p>
 
-1. Follow the uninstall instructions under the [Uninstall - Option B](#option-b-uninstall-and-delete-all-extension-files) section \> **Step 2** below to remove the **Global Fixed Quantity** extension files from your store.
+1. Click on the `Upload` button and browse the new extension file **myoc.globalqty.ocmod.zip** that you have downloaded from your purchase on opencart.com marketplace.
 
-2. Reupload the latest extension file `myoc.globalqty.ocmod.zip` that you have downloaded from the opencart.com marketplace **Global Fixed Quantity** [extension page](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=12489).
+  ![install progress](images/install_progress.png)
 
-3. Navigate to `Extensions` \> `Modifications` \> click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-refresh"></i></button> **Refresh** button.
+  This will replace previous extension files with the updated version.
+
+2. Then, navigate to `Extensions` \> `Modifications` \> click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-refresh"></i></button> **Refresh** button.
+
+3. Clear your theme cache by navigating to `Dashboard` \> click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-cog"></i></button> **Settings** button \> click on the orange <button class="docute-button docute-button-warning"><i class="fa fa-refresh"></i></button> **Refresh** buttons to refresh both `Theme` & `SASS` Components \> close the **Developer Settings** window.
+
+4. If necessary, reconfigure and save the extension settings in the extension configuration page in admin > `Extensions` \> `Extensions` \> under `Choose the extension type` \> select `OpenCart.my Extensions` > `Global Fixed Quantity` > click on the blue <button class="docute-button docute-button-primary"><i class="fa fa-pencil"></i></button> **Edit** button.
 
 ## Usage
 
