@@ -18,7 +18,7 @@ This document contains information for **Price Rounding** extension. If this is 
 | Download Page:                  | <https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=10016> |
 | Latest Version:                 | 2.0.1 ([v1.3.x Documentation](https://opencart.my/documentation/round/)) |
 | Release Date:                   | 11th March 2018 |
-| Demo:                           | OpenCart v3.0.2.x: <https://demo.opencart.my/rounding><br>OpenCart v2.3.0.x: <https://demo.opencart.my/round><br>OpenCart v1.5.x: <https://demo.opencart.my/rounding/v1> |
+| Demo:                           | OpenCart v3.0.2.x: <https://demo.opencart.my/rounding><br>OpenCart v2.3.0.x: <https://demo.opencart.my/round><br>OpenCart v1.5.x: <https://demo.opencart.my/rounding_ocv1> |
 | Author:                         | opencart.my - [More extensions](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=opencart.my) |
 | Contact:                        | support@opencart.my |
 

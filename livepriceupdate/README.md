@@ -18,7 +18,7 @@ This document contains information for **Live Price Update** extension. If this 
 | Download Page:                  | <https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=12489> |
 | Latest Version:                 | 2.0.2 ([v1.5.x Documentation](v1/)) |
 | Release Date:                   | 15th July 2020 |
-| Demo:                           | OpenCart v3.0.2.x: <https://demo.opencart.my/livepriceupdate><br>OpenCart v2.3.0.x: <https://demo.opencart.my/livepriceupdate/ocv2><br>OpenCart v1.5.x: <https://demo.opencart.my/lpu> |
+| Demo:                           | OpenCart v3.0.2.x: <https://demo.opencart.my/livepriceupdate><br>OpenCart v2.3.0.x: <https://demo.opencart.my/livepriceupdate2><br>OpenCart v1.5.x: <https://demo.opencart.my/lpu> |
 | Author:                         | opencart.my - [More extensions](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=opencart.my) |
 | Contact:                        | support@opencart.my |
 
